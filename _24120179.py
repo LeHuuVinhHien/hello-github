@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 print(f"Hello Github")
 print(f"Hien Le")
-=======
 input_str = input("Enter a list of numbers separated by space: ")
 # Tách chuỗi thành các chuỗi con và chuyển đổi chúng thành số nguyên
 numbers = [int(num) for num in input_str.split()]
@@ -21,4 +20,3 @@ def isPrime(n):
         print(f"{num_to_check} is a prime number.")
     else:
         print(f"{num_to_check} is not a prime number.")
->>>>>>> 1a2dbc3ce26ddf4e3ab6b0ed95fa5c26b2460972
